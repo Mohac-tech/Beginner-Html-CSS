@@ -1,0 +1,124 @@
+div.entete
+{
+   
+}
+
+
+
+
+ul {
+    /* padding-left: 0px; */
+       margin-left : 80px;
+    /*   padding-bottom: 30px; 
+    text-align: center; */
+    
+    list-style-type: disc;
+
+   /* padding-left: 300px;
+    padding-right: 300px; */
+
+
+    } 
+li
+    {
+    /* border: 1px solid;*/
+    }
+
+.essai
+    {
+      clear: both;
+      margin-top: 40px;
+    }
+
+body,html
+    {
+       /*overflow: auto;*/ 
+       background-color: antiquewhite;
+
+       height: 100%;
+
+       background-repeat: no-repeat;
+       background-position: center;
+       background-size: cover;
+       
+    }
+
+    .entete img 
+{
+    float : left;
+}
+
+.parent2 p
+    {
+      float: left;
+      width: 79%;
+      text-align: justify;
+      line-height: 1.5;
+      font-style: italic;
+      text-indent: 10px;
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
+    }
+
+.parent2 img
+{
+    float: right;
+    width: 20%;
+    padding-top: 10px;
+}
+
+.parent2
+{
+    margin-top: 40px;
+    overflow: hidden;
+    clear: both;
+    
+}
+
+.parent3 p
+    {
+      float: right;
+      width: 79%;
+      text-align: justify;
+      line-height: 1.5;
+      font-style: italic;
+      text-indent: 10px;
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
+    }
+
+.parent3 img
+{
+    float: left;
+    width: 20%;
+    padding-top: 10px;
+}
+
+.parent3
+{
+    
+}
+
+.footer
+{
+    text-align: center;
+}
+
+.milieu .center
+{
+    width: 79%;
+    float: left;
+}
+
+.milieu .side 
+{
+    width: 20%;
+    float: right;
+    border-left: 1px solid black;
+}
+
+.milieu
+{
+    overflow: hidden;
+    clear: both; 
+}

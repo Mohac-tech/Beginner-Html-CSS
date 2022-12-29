@@ -1,0 +1,5 @@
+<img src="bugatti.jpg" alt="la bugatti type 57" height="100" width="100"> 
+
+<img src="chiron.jpg" alt="la bugatti type 57">
+
+<blockquote><em>Rien n'est trop beau, rien n'est trop cher</em></blockquote>
